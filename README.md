@@ -45,7 +45,7 @@ Users should be able to:
 ### Screenshot
 
 #### 🖥️ Desktop
-![3° F E P  - Desktop Screenshot](https://user-images.githubusercontent.com/105513033/179427730-9281fa10-15bf-4d28-8d66-2ff2f2999a75.png)
+![3° F E P  - Desktop Screenshot](https://user-images.githubusercontent.com/105513033/179430712-1974ddc2-3a73-4e91-8841-bdeabc2911d6.png)
 
 #### 📱 Mobile
 ![3° F E P  - Mobile Screenshot](https://user-images.githubusercontent.com/105513033/179428302-8c286665-ecc4-40a5-b8e6-451be70bc330.png)

@@ -54,8 +54,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution in Github](https://github.com/EliveltonSilvaCordeiro/3-FEP-X-1st-Frontend-Mentor/)
+- Live Site URL: [Live site by Vercel](https://preview-card-topaz.vercel.app/)
 
 &nbsp;
 

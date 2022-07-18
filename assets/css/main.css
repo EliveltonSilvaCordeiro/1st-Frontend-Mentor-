@@ -24,6 +24,7 @@ body {
 
 .product-name {
   font-family: 'Fraunces', serif;
+  font-size: 21px;
   padding: 10px 0 20px;
 }
 
@@ -93,7 +94,7 @@ body {
     align-items: center;
     background-color: #fff;
     height: 100%;
-    max-width: 620px;
+    max-width: 660px;
     border-radius: 10px;
   }
 
@@ -107,7 +108,7 @@ body {
   }
 
   .product-description {
-    width: 650px;
+    width: 600px;
     padding: 30px;
   }
 
